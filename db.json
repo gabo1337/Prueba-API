@@ -1,0 +1,12 @@
+{
+  "proyecto": [
+    {
+      "humedad": "43%",
+      "id": 1
+    }
+  ],
+  "valvula": {
+    "id": 1,
+    "estado": 1
+  }
+}
